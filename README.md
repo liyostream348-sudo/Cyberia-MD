@@ -49,7 +49,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
 
-<a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/github/forks/NaCkS-ai/Cyberia-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20CYBERIA-MD" alt="Fork CYBERIA-MD" /></a>
+<a href="https://github.com/NaCkS-ai/Cyberia-MD/fork"><img src="https://img.shields.io/github/forks/NaCkS-ai/Cyberia-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20CYBERIA-MD" alt="Fork CYBERIA-MD" /></a>
 
 ---
 
